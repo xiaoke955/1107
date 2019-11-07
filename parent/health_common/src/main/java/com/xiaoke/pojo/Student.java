@@ -11,4 +11,6 @@ public class Student {
     String username;
     int age;
     String mmm;
+    String nnn;
+    String zzz;
 }
