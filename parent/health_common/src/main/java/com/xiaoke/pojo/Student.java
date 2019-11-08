@@ -5,11 +5,13 @@ package com.xiaoke.pojo;
  * @description:
  * @author: xiaoke
  * @create: 2019-11-07 23:04
+ * @create: 2019-11-07 23:04
  **/
 
 public class Student {
     String username;
     int age;
     String mmm;
-	int xinfenzhi;
-}
+	String nnn;
+    String zzz;
+	int xinfenzhi;}
