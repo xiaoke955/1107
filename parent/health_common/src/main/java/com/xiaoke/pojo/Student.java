@@ -14,4 +14,7 @@ public class Student {
     String mmm;
 	String nnn;
     String zzz;
-	int xinfenzhi;}
+	int xinfenzhi;
+
+	String k;
+}
